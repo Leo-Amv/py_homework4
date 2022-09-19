@@ -1,0 +1,3 @@
+Power k -->	6
+Random factors -->	[7, 0, 10, 3, 6, 7, 3]
+Polynom -->	7X^6 + 10X^4 + 3X^3 + 6X^2 + 7X + 3 = 0

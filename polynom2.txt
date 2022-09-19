@@ -1,0 +1,3 @@
+Power k -->	3
+Random factors -->	[0, 7, 8, 0]
+Polynom -->	7X^2 + 8X = 0
