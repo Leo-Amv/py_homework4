@@ -1,0 +1,1 @@
+Sum of polynomials -->	7X^6 + 10X^4 + 3X^3 + 6X^2 + 7X + 3 + 4X^3 + X^2 + 9
