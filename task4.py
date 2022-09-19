@@ -31,7 +31,7 @@ try:
 
 except ValueError:
     print('Incorrect data! You must enter number, try again!')
-with open('polynom2.txt', 'a') as data:
+with open('polynom2.txt', 'w') as data:
     data.write(f'Power k -->\t{k}')
     data.write(f'\nRandom factors -->\t{factors}')
     data.write(f'\nPolynom -->\t{pol}\n')
